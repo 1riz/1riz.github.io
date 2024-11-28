@@ -1,18 +1,13 @@
---
-layout: default
----
-
 # Projects
 
-## NeovimConfig
+## neovim-config
 
 Minimalist Neovim configuration.
 
-https://github.com/1riz/nvim
+[github.com/1riz/nvim](https://github.com/1riz/nvim)
 
-## TelescopeMacros Neovim plugin
+## telescope-macros
 
-Extension to manage macros (WIP).
+Telescope extension to manage macros (WIP).
 
-https://github.com/1riz/telescope-macros.nvim
-
+[github.com/1riz/telescope-macros.nvim](https://github.com/1riz/telescope-macros.nvim)
